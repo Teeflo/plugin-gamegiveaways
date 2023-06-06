@@ -1,0 +1,13 @@
+{
+  "id" : "gamegiveaways",
+  "name" : "Game Giveaways",
+  "description" : "Plugin pour récupérer les jeux en réduction/promo, où même gratuit.",
+  "licence" : "AGPL",
+  "author" : "Teeflo",
+  "require" : "4.0",
+  "category" : "organization",
+  "changelog" : "",
+  "documentation" : "",
+  "language" : "",
+  "compatibility" : "miniplus, smart, docker, rpi, diy, mobileapp, v4"
+}
